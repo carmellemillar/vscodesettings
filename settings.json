@@ -1,0 +1,10 @@
+{
+  "window.zoomLevel": 2,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "prettier.singleQuote": true,
+  "editor.tabSize": 2, 
+}
