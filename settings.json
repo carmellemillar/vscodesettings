@@ -6,5 +6,6 @@
   },
   "javascript.updateImportsOnFileMove.enabled": "always",
   "prettier.singleQuote": true,
-  "editor.tabSize": 2, 
+  "editor.tabSize": 2,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
 }
